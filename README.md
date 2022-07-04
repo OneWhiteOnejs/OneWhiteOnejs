@@ -1,10 +1,6 @@
 <h2> 👋 Profilime Hoşgeldin! </h2>
 
-🪐 Tekrardan Merhaba!
 
-> Ben Kimim?
-
-・Kısaca kendimden bahsedeyim. Ben [OneWhiteOne](https://github.com/OneWhiteOnejs). Yaklaşık 1 Aydır yazılım ile ilgileniyorum ve kendimi geliştirmeye çalışıyorum. [Discord](discordapp.com) üzerindeki botlar ve kodlamalarıyla da ilgileniyorum. Buralarda bot altyapıları paylaşacağım.
 
 <img src="https://komarev.com/ghpvc/?username=OneWhiteOnejs&label=Ziyaretçi%20Sayısı&color=552b75" alt="OneWhiteOne" />
 
